@@ -1,18 +1,159 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Rohit** 👋<br><br>I'm a **Software Developer** focused on building backend and full-stack applications. I work mainly with **Python, FastAPI, Node.js, TypeScript, React, PostgreSQL, and MongoDB**.<br><br>I'm interested in **backend engineering, distributed systems, observability, DevOps, and AI/LLM-powered applications**. I enjoy building practical systems, working with APIs and databases, and solving problems with clean and scalable solutions.<br><br>Currently exploring **System Design, Data Structures & Algorithms, and scalable backend architectures**.<br><br>💻 Always building. Always learning.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=200&section=header&text=%3E%20whoami_&fontSize=46&fontColor=39FF14&fontAlignY=38&desc=Rohit%20—%20Backend%20%26%20Full-Stack%20Developer&descAlignY=62&descSize=16&descAlign=50" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-kumar-bb7aa9289/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarrohit88829@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=flat-square&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rohit-kumar0607&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rohit-kumar0607&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohit-kumar0607&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=%24+cat+about_me.txt;Python+%7C+FastAPI+%7C+Node.js+%7C+React;Backend+engineering+%2F%2F+distributed+systems;status%3A+always_building+%26+always_learning" alt="Typing SVG" />
 
----
-[![](https://komarev.com/ghpvc/?username=rohit-kumar0607&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## `~/about-me`
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  ● ● ●                            rohit@dev-machine: ~        │
+├──────────────────────────────────────────────────────────────┤
+│                                                                │
+│  $ whoami                                                     │
+│  Rohit — Software Developer                                   │
+│                                                                │
+│  $ cat focus.txt                                              │
+│  Backend & full-stack applications                            │
+│                                                                │
+│  $ cat stack.txt                                               │
+│  Python, FastAPI, Node.js, TypeScript, React,                 │
+│  PostgreSQL, MongoDB                                           │
+│                                                                │
+│  $ cat interests.txt                                          │
+│  backend engineering · distributed systems ·                  │
+│  observability · devops · AI / LLM apps                       │
+│                                                                │
+│  $ cat currently_exploring.txt                                │
+│  system design · data structures & algorithms ·               │
+│  scalable backend architectures                               │
+│                                                                │
+│  $ echo $STATUS                                                │
+│  always_building && always_learning                           │
+│                                                                │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## `~/tech-stack --list`
+
+<div align="center">
+
+**languages**
+<br/>
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)
+
+**backend / apis**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00FF41)
+![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00FF41)
+![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge&logo=swagger&logoColor=00FF41)
+![Nodemon](https://img.shields.io/badge/Nodemon-0D1117?style=for-the-badge&logo=nodemon&logoColor=00FF41)
+
+**frontend**
+<br/>
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF41)
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=00FF41)
+![React Router](https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=00FF41)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0D1117?style=for-the-badge&logo=reacthookform&logoColor=00FF41)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=00FF41)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=00FF41)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=00FF41)
+![Chart.js](https://img.shields.io/badge/Chart.js-0D1117?style=for-the-badge&logo=chart.js&logoColor=00FF41)
+
+**databases**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![Postgres](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FF41)
+
+**devops / observability / tools**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)
+![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=00FF41)
+![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=00FF41)
+![Prometheus](https://img.shields.io/badge/Prometheus-0D1117?style=for-the-badge&logo=prometheus&logoColor=00FF41)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-0D1117?style=for-the-badge&logo=opentelemetry&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00FF41)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=00FF41)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF41)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41)
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00FF41)
+![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF41)
+
+</div>
+
+<br/>
+
+## `~/stats --fetch`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=rohit-kumar0607&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rohit-kumar0607&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&layout=compact" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=rohit-kumar0607&theme=hacker&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohit-kumar0607&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
+
+</div>
+
+<br/>
+
+## `~/contributions --animate`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohit-kumar0607/rohit-kumar0607/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohit-kumar0607/rohit-kumar0607/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rohit-kumar0607/rohit-kumar0607/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+## `~/connect --list`
+
+<div align="center">
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)
+[![LinkedIn Link](https://img.shields.io/badge/→_open_profile-0D1117?style=flat-square&logoColor=00FF41&color=0D1117)](https://www.linkedin.com/in/rohit-kumar-bb7aa9289/)
+
+![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)
+[![Email Link](https://img.shields.io/badge/→_kumarrohit88829@gmail.com-0D1117?style=flat-square&logoColor=00FF41&color=0D1117)](mailto:kumarrohit88829@gmail.com)
+
+</div>
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=rohit-kumar0607&icon=github&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=80&section=footer" width="100%"/>
